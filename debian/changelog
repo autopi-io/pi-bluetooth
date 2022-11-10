@@ -1,4 +1,11 @@
-pi-bluetooth (0.1.19) bullseye; urgency=medium
+pi-bluetooth (0.1.20) buster; urgency=medium
+
+  [ Phil Elwell ]
+  * Removed force initialization as that causes issues with custom service using bluetooth.
+
+ -- Malte Baden Hansen <Malte@autopi.io>  Thu, 10 Nov 2022 10:40:07 +0100
+
+pi-bluetooth (0.1.19) buster; urgency=medium
 
   [ Phil Elwell ]
   * Add AA:AA:AA:AA:AA:AA as an "unprogrammed" address
