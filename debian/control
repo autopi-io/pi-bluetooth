@@ -1,10 +1,10 @@
 Source: pi-bluetooth
 Section: misc
 Priority: optional
-Maintainer: Serge Schneider <serge@raspberrypi.com>
+Maintainer: Malte Baden Hansen <malte@autopi.io>
 Build-Depends: debhelper-compat (= 11)
 Standards-Version: 4.3.0
-Homepage: https://github.com/RPi-Distro/pi-bluetooth
+Homepage: https://github.com/autopi-io/pi-bluetooth
 
 Package: pi-bluetooth
 Architecture: all
