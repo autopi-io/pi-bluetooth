@@ -1,0 +1,6 @@
+## Building
+
+1. Change changelog
+2. Build on rpi (-uc -us = unsigned)
+
+    dpkg-buildpackage -uc -us
